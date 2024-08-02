@@ -41,7 +41,7 @@ export function Profile() {
               />
               <div>
                 <Typography variant="h5" color="blue-gray" className="mb-1">
-                  Richard Davis
+                  Carlos Bessa & Filipe Moreira
                 </Typography>
                 <Typography
                   variant="small"
